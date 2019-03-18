@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\bin\Debug\MarketAppHW.exe.config
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\bin\Debug\MarketAppHW.exe
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\bin\Debug\MarketAppHW.pdb
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\obj\Debug\MarketAppHW.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\obj\Debug\MarketAppHW.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\obj\Debug\MarketAppHW.exe
+C:\Users\pc\source\repos\MarketAppHW\MarketAppHW\obj\Debug\MarketAppHW.pdb
