@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\bin\Debug\StateApp.exe.config
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\bin\Debug\StateApp.exe
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\bin\Debug\StateApp.pdb
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\obj\Debug\StateApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\obj\Debug\StateApp.exe
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\obj\Debug\StateApp.pdb
+C:\Users\pc\source\repos\Class1AdvancedCsharp\StateApp\obj\Debug\StateApp.csprojAssemblyReference.cache
